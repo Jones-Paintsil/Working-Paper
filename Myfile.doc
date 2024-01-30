@@ -1,0 +1,441 @@
+{\rtf1\ansi\deff0 {\fonttbl{\f0\fnil Garamond;}}
+{\info {\author .}{\company .}{\title .}}
+\deflang1033\plain\fs20
+{\footer\pard\qc\plain\f0\fs20\chpgn\par}
+{
+{
+{\b\qc\line Tabulation of physical_emotional  }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx1200\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx2100\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3900
+\ql {}\cell
+\qr {Freq.}\cell
+\qr {Percent}\cell
+\qr {Cum.}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx1200\cellx2100\cellx3000\cellx3900
+\ql {0}\cell
+\qr {44996}\cell
+\qr {68.43}\cell
+\qr {68.43}\cell
+\row
+\ql {1}\cell
+\qr {20758}\cell
+\qr {31.57}\cell
+\qr {100.00}\cell
+\row
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs\cellx1200\clbrdrt\brdrw10\brdrs\cellx2100\clbrdrt\brdrw10\brdrs\cellx3000\clbrdrt\brdrw10\brdrs\cellx3900 
+\ql {Total}\cell
+\qr {65754}\cell
+\qr {100.00}\cell
+\qr {}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx3900\cell
+\row}
+
+
+{
+{\b\qc\line Tabulation of ippv12m  }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx1200\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx2100\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3900
+\ql {Woman experienced abuse in the past 12 months-Dummy}\cell
+\qr {Freq.}\cell
+\qr {Percent}\cell
+\qr {Cum.}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx1200\cellx2100\cellx3000\cellx3900
+\ql {0}\cell
+\qr {52984}\cell
+\qr {80.58}\cell
+\qr {80.58}\cell
+\row
+\ql {1}\cell
+\qr {12770}\cell
+\qr {19.42}\cell
+\qr {100.00}\cell
+\row
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs\cellx1200\clbrdrt\brdrw10\brdrs\cellx2100\clbrdrt\brdrw10\brdrs\cellx3000\clbrdrt\brdrw10\brdrs\cellx3900 
+\ql {Total}\cell
+\qr {65754}\cell
+\qr {100.00}\cell
+\qr {}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx3900\cell
+\row}
+
+
+{
+{\b\qc\line Tabulation of emo_12m  }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx1200\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx2100\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3900
+\ql {RECODE of emo_index12m}\cell
+\qr {Freq.}\cell
+\qr {Percent}\cell
+\qr {Cum.}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx1200\cellx2100\cellx3000\cellx3900
+\ql {0}\cell
+\qr {48923}\cell
+\qr {74.40}\cell
+\qr {74.40}\cell
+\row
+\ql {1}\cell
+\qr {16831}\cell
+\qr {25.60}\cell
+\qr {100.00}\cell
+\row
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs\cellx1200\clbrdrt\brdrw10\brdrs\cellx2100\clbrdrt\brdrw10\brdrs\cellx3000\clbrdrt\brdrw10\brdrs\cellx3900 
+\ql {Total}\cell
+\qr {65754}\cell
+\qr {100.00}\cell
+\qr {}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx3900\cell
+\row}
+
+
+{
+{\b\qc\line Tabulation of account  }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx1200\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx2100\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3900
+\ql {has an account in a bank or other financial institution}\cell
+\qr {Freq.}\cell
+\qr {Percent}\cell
+\qr {Cum.}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx1200\cellx2100\cellx3000\cellx3900
+\ql {no}\cell
+\qr {57799}\cell
+\qr {87.90}\cell
+\qr {87.90}\cell
+\row
+\ql {yes}\cell
+\qr {7955}\cell
+\qr {12.10}\cell
+\qr {100.00}\cell
+\row
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs\cellx1200\clbrdrt\brdrw10\brdrs\cellx2100\clbrdrt\brdrw10\brdrs\cellx3000\clbrdrt\brdrw10\brdrs\cellx3900 
+\ql {Total}\cell
+\qr {65754}\cell
+\qr {100.00}\cell
+\qr {}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx3900\cell
+\row}
+
+
+{
+{\b\qc\line Tabulation of work_cur  }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx1200\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx2100\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3900
+\ql {respondent currently working}\cell
+\qr {Freq.}\cell
+\qr {Percent}\cell
+\qr {Cum.}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx1200\cellx2100\cellx3000\cellx3900
+\ql {no}\cell
+\qr {17455}\cell
+\qr {26.55}\cell
+\qr {26.55}\cell
+\row
+\ql {yes}\cell
+\qr {48299}\cell
+\qr {73.45}\cell
+\qr {100.00}\cell
+\row
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs\cellx1200\clbrdrt\brdrw10\brdrs\cellx2100\clbrdrt\brdrw10\brdrs\cellx3000\clbrdrt\brdrw10\brdrs\cellx3900 
+\ql {Total}\cell
+\qr {65754}\cell
+\qr {100.00}\cell
+\qr {}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx3900\cell
+\row}
+
+
+{
+{\b\qc\line Tabulation of poly  }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx1200\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx2100\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3900
+\ql {RECODE of wives1 (v505temp==no other wives)}\cell
+\qr {Freq.}\cell
+\qr {Percent}\cell
+\qr {Cum.}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx1200\cellx2100\cellx3000\cellx3900
+\ql {0}\cell
+\qr {54758}\cell
+\qr {83.28}\cell
+\qr {83.28}\cell
+\row
+\ql {1}\cell
+\qr {10996}\cell
+\qr {16.72}\cell
+\qr {100.00}\cell
+\row
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs\cellx1200\clbrdrt\brdrw10\brdrs\cellx2100\clbrdrt\brdrw10\brdrs\cellx3000\clbrdrt\brdrw10\brdrs\cellx3900 
+\ql {Total}\cell
+\qr {65754}\cell
+\qr {100.00}\cell
+\qr {}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx3900\cell
+\row}
+
+
+{
+{\b\qc\line Tabulation of occupation3  }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx1200\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx2100\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3900
+\ql {occupation==sales}\cell
+\qr {Freq.}\cell
+\qr {Percent}\cell
+\qr {Cum.}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx1200\cellx2100\cellx3000\cellx3900
+\ql {0}\cell
+\qr {60793}\cell
+\qr {92.46}\cell
+\qr {92.46}\cell
+\row
+\ql {1}\cell
+\qr {4961}\cell
+\qr {7.54}\cell
+\qr {100.00}\cell
+\row
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs\cellx1200\clbrdrt\brdrw10\brdrs\cellx2100\clbrdrt\brdrw10\brdrs\cellx3000\clbrdrt\brdrw10\brdrs\cellx3900 
+\ql {Total}\cell
+\qr {65754}\cell
+\qr {100.00}\cell
+\qr {}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx3900\cell
+\row}
+
+
+{
+{\b\qc\line Tabulation of occupation4  }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx1200\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx2100\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3900
+\ql {occupation==agricultural - self employed}\cell
+\qr {Freq.}\cell
+\qr {Percent}\cell
+\qr {Cum.}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx1200\cellx2100\cellx3000\cellx3900
+\ql {0}\cell
+\qr {53599}\cell
+\qr {81.51}\cell
+\qr {81.51}\cell
+\row
+\ql {1}\cell
+\qr {12155}\cell
+\qr {18.49}\cell
+\qr {100.00}\cell
+\row
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs\cellx1200\clbrdrt\brdrw10\brdrs\cellx2100\clbrdrt\brdrw10\brdrs\cellx3000\clbrdrt\brdrw10\brdrs\cellx3900 
+\ql {Total}\cell
+\qr {65754}\cell
+\qr {100.00}\cell
+\qr {}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx3900\cell
+\row}
+
+
+{
+{\b\qc\line Tabulation of p_occupation3  }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx1200\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx2100\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3900
+\ql {p_occupation==sales}\cell
+\qr {Freq.}\cell
+\qr {Percent}\cell
+\qr {Cum.}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx1200\cellx2100\cellx3000\cellx3900
+\ql {0}\cell
+\qr {64711}\cell
+\qr {98.41}\cell
+\qr {98.41}\cell
+\row
+\ql {1}\cell
+\qr {1043}\cell
+\qr {1.59}\cell
+\qr {100.00}\cell
+\row
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs\cellx1200\clbrdrt\brdrw10\brdrs\cellx2100\clbrdrt\brdrw10\brdrs\cellx3000\clbrdrt\brdrw10\brdrs\cellx3900 
+\ql {Total}\cell
+\qr {65754}\cell
+\qr {100.00}\cell
+\qr {}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx3900\cell
+\row}
+
+
+{
+{\b\qc\line Tabulation of p_occupation4  }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx1200\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx2100\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3900
+\ql {p_occupation==agricultural - self employed}\cell
+\qr {Freq.}\cell
+\qr {Percent}\cell
+\qr {Cum.}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx1200\cellx2100\cellx3000\cellx3900
+\ql {0}\cell
+\qr {54800}\cell
+\qr {83.34}\cell
+\qr {83.34}\cell
+\row
+\ql {1}\cell
+\qr {10954}\cell
+\qr {16.66}\cell
+\qr {100.00}\cell
+\row
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs\cellx1200\clbrdrt\brdrw10\brdrs\cellx2100\clbrdrt\brdrw10\brdrs\cellx3000\clbrdrt\brdrw10\brdrs\cellx3900 
+\ql {Total}\cell
+\qr {65754}\cell
+\qr {100.00}\cell
+\qr {}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx3900\cell
+\row}
+
+
+{
+{\b\qc\line Tabulation of middle  }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx1200\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx2100\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3900
+\ql {wealth_cat==middle}\cell
+\qr {Freq.}\cell
+\qr {Percent}\cell
+\qr {Cum.}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx1200\cellx2100\cellx3000\cellx3900
+\ql {0}\cell
+\qr {52542}\cell
+\qr {79.91}\cell
+\qr {79.91}\cell
+\row
+\ql {1}\cell
+\qr {13212}\cell
+\qr {20.09}\cell
+\qr {100.00}\cell
+\row
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs\cellx1200\clbrdrt\brdrw10\brdrs\cellx2100\clbrdrt\brdrw10\brdrs\cellx3000\clbrdrt\brdrw10\brdrs\cellx3900 
+\ql {Total}\cell
+\qr {65754}\cell
+\qr {100.00}\cell
+\qr {}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx3900\cell
+\row}
+
+
+{
+{\b\qc\line Tabulation of riher  }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx1200\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx2100\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3900
+\ql {wealth_cat==richer}\cell
+\qr {Freq.}\cell
+\qr {Percent}\cell
+\qr {Cum.}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx1200\cellx2100\cellx3000\cellx3900
+\ql {0}\cell
+\qr {52603}\cell
+\qr {80.00}\cell
+\qr {80.00}\cell
+\row
+\ql {1}\cell
+\qr {13151}\cell
+\qr {20.00}\cell
+\qr {100.00}\cell
+\row
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs\cellx1200\clbrdrt\brdrw10\brdrs\cellx2100\clbrdrt\brdrw10\brdrs\cellx3000\clbrdrt\brdrw10\brdrs\cellx3900 
+\ql {Total}\cell
+\qr {65754}\cell
+\qr {100.00}\cell
+\qr {}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx3900\cell
+\row}
+
+
+{
+{\b\qc\line Tabulation of riherest  }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx1200\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx2100\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3900
+\ql {wealth_cat==richest}\cell
+\qr {Freq.}\cell
+\qr {Percent}\cell
+\qr {Cum.}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx1200\cellx2100\cellx3000\cellx3900
+\ql {0}\cell
+\qr {53557}\cell
+\qr {81.45}\cell
+\qr {81.45}\cell
+\row
+\ql {1}\cell
+\qr {12197}\cell
+\qr {18.55}\cell
+\qr {100.00}\cell
+\row
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs\cellx1200\clbrdrt\brdrw10\brdrs\cellx2100\clbrdrt\brdrw10\brdrs\cellx3000\clbrdrt\brdrw10\brdrs\cellx3900 
+\ql {Total}\cell
+\qr {65754}\cell
+\qr {100.00}\cell
+\qr {}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx3900\cell
+\row}
+
+
+{
+{\b\qc\line Tabulation of loc2  }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx1200\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx2100\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3900
+\ql {urban==urban}\cell
+\qr {Freq.}\cell
+\qr {Percent}\cell
+\qr {Cum.}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx1200\cellx2100\cellx3000\cellx3900
+\ql {0}\cell
+\qr {45898}\cell
+\qr {69.80}\cell
+\qr {69.80}\cell
+\row
+\ql {1}\cell
+\qr {19856}\cell
+\qr {30.20}\cell
+\qr {100.00}\cell
+\row
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs\cellx1200\clbrdrt\brdrw10\brdrs\cellx2100\clbrdrt\brdrw10\brdrs\cellx3000\clbrdrt\brdrw10\brdrs\cellx3900 
+\ql {Total}\cell
+\qr {65754}\cell
+\qr {100.00}\cell
+\qr {}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx3900\cell
+\row}
+
+
+\writepositionforappend
+}}
